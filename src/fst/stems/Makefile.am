@@ -15,6 +15,6 @@
 ## You should have received a copy of the GNU General Public License
 ## along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-pkgsrcfststemsdir=$(pkgdatadir)/src/fst/stems/
+pkgsrcfststemsdir=$(datadir)/giella/shared-urj-Cyrl/src/fst/stems/
 pkgsrcfststems_DATA=urj-Cyrl-propernouns.lexc
 
