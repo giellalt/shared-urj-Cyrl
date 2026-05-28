@@ -3841,6 +3841,7 @@ LEXICON urj-Cyrl-ProperNouns
 Бакшиев+N+Prop:Бакшиев Deriv-RUS-V_SURMAL ;
 Бакшин+N+Prop:Бакшин Deriv-RUS-IN_SURMAL ;
 Бакштейн+N+Prop:Бакштейн CYRL-CONS_SUR ;
+Балаба+N+Prop:Балаба CYRL-A_SUR ;
 Балабаев+N+Prop:Балабаев Deriv-RUS-V_SURMAL ;
 Балабай+N+Prop:Балабай CYRL-CONS_SUR ;
 Балабайкин+N+Prop:Балабайкин Deriv-RUS-IN_SURMAL ;
@@ -5273,6 +5274,7 @@ LEXICON urj-Cyrl-ProperNouns
 Беленов+N+Prop:Беленов Deriv-RUS-V_SURMAL ;
 Беленок+N+Prop:Беленок CYRL-K_SUR ;
 Беленцов+N+Prop:Беленцов Deriv-RUS-V_SURMAL ;
+Беленчук+N+Prop:Беленчук CYRL-K_SUR ;
 Беленький+N+Prop:Беленьк Deriv-RUS-KIJ_SURMAL ;
 Беленько+N+Prop:Беленько CYRL-VOW_SUR ;
 Беленьков+N+Prop:Беленьков Deriv-RUS-V_SURMAL ;
@@ -9963,6 +9965,7 @@ LEXICON urj-Cyrl-ProperNouns
 Ватманов+N+Prop:Ватманов Deriv-RUS-V_SURMAL ;
 Ватолин+N+Prop:Ватолин Deriv-RUS-IN_SURMAL ;
 Ватолкин+N+Prop:Ватолкин Deriv-RUS-IN_SURMAL ;
+Ватонен+N+Prop:Ватонен CYRL-CONS_SUR ;
 Ватонин+N+Prop:Ватонин Deriv-RUS-IN_SURMAL ;
 Ваторопин+N+Prop:Ваторопин Deriv-RUS-IN_SURMAL ;
 Ватракшин+N+Prop:Ватракшин Deriv-RUS-IN_SURMAL ;
@@ -20572,6 +20575,7 @@ LEXICON urj-Cyrl-ProperNouns
 Жбирь+N+Prop:Жбирь CYRL-CONS_SUR ;
 Жбуль+N+Prop:Жбуль CYRL-CONS_SUR ;
 Жбыркин+N+Prop:Жбыркин Deriv-RUS-IN_SURMAL ;
+Жвавый+N+Prop:Жвав Deriv-RUS-YJ_SURMAL ;
 Жвакин+N+Prop:Жвакин Deriv-RUS-IN_SURMAL ;
 Жваликовский+N+Prop:Жваликовск Deriv-RUS-KIJ_SURMAL ;
 Жвалов+N+Prop:Жвалов Deriv-RUS-V_SURMAL ;
@@ -31775,7 +31779,7 @@ LEXICON urj-Cyrl-ProperNouns
 Ляшок+N+Prop:Ляшок CYRL-K_SUR ;
 Лященко+N+Prop:Лященко CYRL-VOW_SUR ;
 Лящук+N+Prop:Лящук CYRL-K_SUR ;
-Мoрдовский+N+Prop:Мoрдовск Deriv-RUS-KIJ_SURMAL ;
+Мордовский+N+Prop:Мордовск Deriv-RUS-KIJ_SURMAL ;
 Маак+N+Prop:Маак CYRL-K_SUR ;
 Маарифзаде+N+Prop:Маарифзаде CYRL-VOW_SUR ;
 Маассен+N+Prop:Маассен CYRL-CONS_SUR ;
@@ -44751,6 +44755,7 @@ LEXICON urj-Cyrl-ProperNouns
 Симонович+N+Prop:Симонович CYRL-SIBILANT_SUR ;
 Симонцев+N+Prop:Симонцев Deriv-RUS-V_SURMAL ;
 Симончик+N+Prop:Симончик CYRL-K_SUR ;
+Симоньян+N+Prop:Симоньян Deriv-RUS-AN_SURMAL ;
 Симоняк+N+Prop:Симоняк CYRL-K_SUR ;
 Симонян+N+Prop:Симонян CYRL-CONS_SUR ;
 Симорин+N+Prop:Симорин Deriv-RUS-IN_SURMAL ;
@@ -51647,6 +51652,7 @@ LEXICON urj-Cyrl-ProperNouns
 Хасько+N+Prop:Хасько CYRL-VOW_SUR ;
 Хатажуков+N+Prop:Хатажуков Deriv-RUS-V_SURMAL ;
 Хатанев+N+Prop:Хатанев Deriv-RUS-V_SURMAL ;
+Хатанзей+N+Prop:Хатанзей CYRL-CONS_SUR ;
 Хатанзеев+N+Prop:Хатанзеев Deriv-RUS-V_SURMAL ;
 Хатанзейский+N+Prop:Хатанзейск Deriv-RUS-KIJ_SURMAL ;
 Хатин+N+Prop:Хатин Deriv-RUS-IN_SURMAL ;
@@ -53605,6 +53611,7 @@ LEXICON urj-Cyrl-ProperNouns
 Чернышевич+N+Prop:Чернышевич CYRL-SIBILANT_SUR ;
 Чернышевский+N+Prop:Чернышевск Deriv-RUS-KIJ_SURMAL ;
 Чернышенко+N+Prop:Чернышенко CYRL-VOW_SUR ;
+Чернышихин+N+Prop:Чернышихин Deriv-RUS-IN_SURMAL ;
 Чернышков+N+Prop:Чернышков Deriv-RUS-V_SURMAL ;
 Чернышов+N+Prop:Чернышов Deriv-RUS-V_SURMAL ;
 Чернюк+N+Prop:Чернюк CYRL-K_SUR ;
@@ -54708,6 +54715,7 @@ LEXICON urj-Cyrl-ProperNouns
 Шаршавый+N+Prop:Шаршав Deriv-RUS-YJ_SURMAL ;
 Шаршаков+N+Prop:Шаршаков Deriv-RUS-V_SURMAL ;
 Шаршеналиев+N+Prop:Шаршеналиев Deriv-RUS-V_SURMAL ;
+Шаршин+N+Prop:Шаршин Deriv-RUS-IN_SURMAL ;
 Шаршков+N+Prop:Шаршков Deriv-RUS-V_SURMAL ;
 Шаршун+N+Prop:Шаршун CYRL-CONS_SUR ;
 Шаршунов+N+Prop:Шаршунов Deriv-RUS-V_SURMAL ;
@@ -117453,6 +117461,7 @@ LEXICON urj-Cyrl-ProperNouns
 Каменуха+N+Prop+Sem/Plc:Каменуха PROP_KUDO_PLC ;
 Каменца+N+Prop+Sem/Plc:Каменца PROP_KUDO_PLC ;
 Каменцы+N+Prop+Sem/Plc:Каменцы PROP_KUDO_PLC ;
+Каменчик+N+Prop:Каменчик CYRL-K_SUR ;
 Каменчуковка+N+Prop+Sem/Plc:Каменчуковка PROP_KUDO_PLC ;
 Каменщина+N+Prop+Sem/Plc:Каменщина PROP_KUDO_PLC ;
 Каменщица+N+Prop+Sem/Plc:Каменщица PROP_KUDO_PLC ;
@@ -128351,6 +128360,7 @@ LEXICON urj-Cyrl-ProperNouns
 Мозолёво-1+N+Prop+Sem/Plc:Мозолёво-1 PROP_KAL_PLC ;
 Мозолёво-2+N+Prop+Sem/Plc:Мозолёво-2 PROP_KAL_PLC ;
 Мозолево+N+Prop+Sem/Plc:Мозолево PROP_KUDO_PLC ;
+Мозолевский+N+Prop:Мозолевск Deriv-RUS-KIJ_SURMAL ;
 Мозолиха+N+Prop+Sem/Plc:Мозолиха PROP_KUDO_PLC ;
 Мозолово+N+Prop+Sem/Plc:Мозолово PROP_KUDO_PLC ;
 Мозоловская+N+Prop+Sem/Plc:Мозоловская PROP_KUDO_PLC ;
@@ -150098,6 +150108,7 @@ LEXICON urj-Cyrl-ProperNouns
 Хомушино+N+Prop+Sem/Plc:Хомушино PROP_KUDO_PLC ;
 Хомчиха+N+Prop+Sem/Plc:Хомчиха PROP_KUDO_PLC ;
 Хомьяново+N+Prop+Sem/Plc:Хомьяново PROP_KUDO_PLC ;
+Хомюк+N+Prop:Хомюк CYRL-K_SUR ;
 Хомяки+N+Prop+Sem/Plc:Хомяки PROP_KUDO_PLC ;
 Хомяковка+N+Prop+Sem/Plc:Хомяковка PROP_KUDO_PLC ;
 Хомяково+N+Prop+Sem/Plc:Хомяково PROP_KUDO_PLC ;
