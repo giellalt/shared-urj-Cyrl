@@ -11717,6 +11717,7 @@ LEXICON urj-Cyrl-ProperNouns
 Вопоиин+N+Prop:Вопоиин Deriv-RUS-IN_SURMAL ;
 Воприков+N+Prop:Воприков Deriv-RUS-V_SURMAL ;
 Вопросов+N+Prop:Вопросов Deriv-RUS-V_SURMAL ;
+Вопягин+N+Prop:Вопягин Deriv-RUS-IN_SURMAL ;
 Ворбин+N+Prop:Ворбин Deriv-RUS-IN_SURMAL ;
 Ворванин+N+Prop:Ворванин Deriv-RUS-IN_SURMAL ;
 Воргин+N+Prop:Воргин Deriv-RUS-IN_SURMAL ;
@@ -16842,6 +16843,7 @@ LEXICON urj-Cyrl-ProperNouns
 Дарчидзе+N+Prop:Дарчидзе CYRL-VOW_SUR ;
 Дарчинян+N+Prop:Дарчинян CYRL-CONS_SUR ;
 Дарчук+N+Prop:Дарчук CYRL-K_SUR ;
+Даръюров+N+Prop:Даръюров Deriv-RUS-V_SURMAL ;
 Дарьев+N+Prop:Дарьев Deriv-RUS-V_SURMAL ;
 Дарьин+N+Prop:Дарьин Deriv-RUS-IN_SURMAL ;
 Дарькин+N+Prop:Дарькин Deriv-RUS-IN_SURMAL ;
@@ -23892,6 +23894,7 @@ LEXICON urj-Cyrl-ProperNouns
 Кавтаткин+N+Prop:Кавтаткин Deriv-RUS-IN_SURMAL ;
 Кавторов+N+Prop:Кавторов Deriv-RUS-V_SURMAL ;
 Кавун+N+Prop:Кавун CYRL-CONS_SUR ;
+Кавунов+N+Prop:Кавунов Deriv-RUS-V_SURMAL ;
 Кавуненко+N+Prop:Кавуненко CYRL-VOW_SUR ;
 Кавынёв+N+Prop:Кавынёв Deriv-RUS-V_SURMAL ;
 Кавыршин+N+Prop:Кавыршин Deriv-RUS-IN_SURMAL ;
@@ -26684,6 +26687,7 @@ LEXICON urj-Cyrl-ProperNouns
 Колган+N+Prop:Колган CYRL-CONS_SUR ;
 Колган+N+Prop:Колган Deriv-RUS-AN_SURMAL ;
 Колганов+N+Prop:Колганов Deriv-RUS-V_SURMAL ;
+Колгарёв+N+Prop:Колгарёв Deriv-RUS-V_SURMAL ;
 Колгашкин+N+Prop:Колгашкин Deriv-RUS-IN_SURMAL ;
 Колданов+N+Prop:Колданов Deriv-RUS-V_SURMAL ;
 Колдин+N+Prop:Колдин Deriv-RUS-IN_SURMAL ;
@@ -27306,6 +27310,7 @@ LEXICON urj-Cyrl-ProperNouns
 Кораков+N+Prop:Кораков Deriv-RUS-V_SURMAL ;
 Корани+N+Prop:Корани CYRL-VOW_SUR ;
 Коратков+N+Prop:Коратков Deriv-RUS-V_SURMAL ;
+Коратыгин+N+Prop:Коратыгин Deriv-RUS-IN_SURMAL ;
 Корачев+N+Prop:Корачев Deriv-RUS-V_SURMAL ;
 Корбаков+N+Prop:Корбаков Deriv-RUS-V_SURMAL ;
 Корбан+N+Prop:Корбан CYRL-CONS_SUR ;
@@ -28272,6 +28277,7 @@ LEXICON urj-Cyrl-ProperNouns
 Крашенников+N+Prop:Крашенников Deriv-RUS-V_SURMAL ;
 Краюхин+N+Prop:Краюхин Deriv-RUS-IN_SURMAL ;
 Краюшкин+N+Prop:Краюшкин Deriv-RUS-IN_SURMAL ;
+Краюшников+N+Prop:Краюшников Deriv-RUS-V_SURMAL ;
 Кргогин+N+Prop:Кргогин Deriv-RUS-IN_SURMAL ;
 Кребс+N+Prop:Кребс CYRL-SIBILANT_SUR ;
 Крейг+N+Prop:Крейг CYRL-CONS_SUR ;
@@ -29149,6 +29155,7 @@ LEXICON urj-Cyrl-ProperNouns
 Кумсков+N+Prop:Кумсков Deriv-RUS-V_SURMAL ;
 Кумушбаев+N+Prop:Кумушбаев Deriv-RUS-V_SURMAL ;
 Кумыкин+N+Prop:Кумыкин Deriv-RUS-IN_SURMAL ;
+Кумыков+N+Prop:Кумыков Deriv-RUS-V_SURMAL ;
 Кун+N+Prop:Кун CYRL-CONS_SUR ;
 Кунавин+N+Prop:Кунавин Deriv-RUS-IN_SURMAL ;
 Кунаев+N+Prop:Кунаев Deriv-RUS-V_SURMAL ;
@@ -29694,6 +29701,7 @@ LEXICON urj-Cyrl-ProperNouns
 Кылдашев+N+Prop:Кылдашев Deriv-RUS-V_SURMAL ;
 Кылосов+N+Prop:Кылосов Deriv-RUS-V_SURMAL ;
 Кылычев+N+Prop:Кылычев Deriv-RUS-V_SURMAL ;
+Кыльяров+N+Prop:Кыльяров Deriv-RUS-V_SURMAL ;
 Кымытваль+N+Prop:Кымытваль CYRL-CONS_SUR ;
 Кынев+N+Prop:Кынев Deriv-RUS-V_SURMAL ;
 Кынкурогов+N+Prop:Кынкурогов Deriv-RUS-V_SURMAL ;
@@ -35701,6 +35709,7 @@ LEXICON urj-Cyrl-ProperNouns
 Непотягов+N+Prop:Непотягов Deriv-RUS-V_SURMAL ;
 Неприн+N+Prop:Неприн Deriv-RUS-IN_SURMAL ;
 Непрон+N+Prop:Непрон CYRL-CONS_SUR ;
+Непрухин+N+Prop:Непрухин Deriv-RUS-IN_SURMAL ;
 Непряев+N+Prop:Непряев Deriv-RUS-V_SURMAL ;
 Непряхин+N+Prop:Непряхин Deriv-RUS-IN_SURMAL ;
 Непучиных+N+Prop:Непучиных CYRL-CONS_SUR ;
@@ -35787,6 +35796,7 @@ LEXICON urj-Cyrl-ProperNouns
 Неткачев+N+Prop:Неткачев Deriv-RUS-V_SURMAL ;
 Нетов+N+Prop:Нетов Deriv-RUS-V_SURMAL ;
 Нетопорченко+N+Prop:Нетопорченко CYRL-VOW_SUR ;
+Неточкин+N+Prop:Неточкин Deriv-RUS-IN_SURMAL ;
 Нетреба+N+Prop:Нетреба CYRL-A_SUR ;
 Нетребенко+N+Prop:Нетребенко CYRL-VOW_SUR ;
 Нетребко+N+Prop:Нетребко CYRL-VOW_SUR ;
@@ -38436,6 +38446,7 @@ LEXICON urj-Cyrl-ProperNouns
 Перембетов+N+Prop:Перембетов Deriv-RUS-V_SURMAL ;
 Перемечев+N+Prop:Перемечев Deriv-RUS-V_SURMAL ;
 Перемотин+N+Prop:Перемотин Deriv-RUS-IN_SURMAL ;
+Перемудрихин+N+Prop:Перемудрихин Deriv-RUS-IN_SURMAL ;
 Перемышлев+N+Prop:Перемышлев Deriv-RUS-V_SURMAL ;
 Перемышленников+N+Prop:Перемышленников Deriv-RUS-V_SURMAL ;
 Переоридорога+N+Prop:Переоридорога CYRL-A_SUR ;
@@ -39750,6 +39761,7 @@ LEXICON urj-Cyrl-ProperNouns
 Полещук+N+Prop:Полещук CYRL-K_SUR ;
 Полещуков+N+Prop:Полещуков Deriv-RUS-V_SURMAL ;
 Ползик+N+Prop:Ползик CYRL-K_SUR ;
+Ползунков+N+Prop:Ползунков Deriv-RUS-V_SURMAL ;
 Ползунов+N+Prop:Ползунов Deriv-RUS-V_SURMAL ;
 Поли+N+Prop:Поли CYRL-VOW_SUR ;
 Полибин+N+Prop:Полибин Deriv-RUS-IN_SURMAL ;
@@ -40753,6 +40765,7 @@ LEXICON urj-Cyrl-ProperNouns
 Прялухин+N+Prop:Прялухин Deriv-RUS-IN_SURMAL ;
 Прямиков+N+Prop:Прямиков Deriv-RUS-V_SURMAL ;
 Прямков+N+Prop:Прямков Deriv-RUS-V_SURMAL ;
+Прянечников+N+Prop:Прянечников Deriv-RUS-V_SURMAL ;
 Пряников+N+Prop:Пряников Deriv-RUS-V_SURMAL ;
 Пряничников+N+Prop:Пряничников Deriv-RUS-V_SURMAL ;
 Прянишников+N+Prop:Прянишников Deriv-RUS-V_SURMAL ;
@@ -43972,6 +43985,7 @@ LEXICON urj-Cyrl-ProperNouns
 Сека+N+Prop:Сека CYRL-A_SUR ;
 Секаев+N+Prop:Секаев Deriv-RUS-V_SURMAL ;
 Секалкин+N+Prop:Секалкин Deriv-RUS-IN_SURMAL ;
+Секаторов+N+Prop:Секаторов Deriv-RUS-V_SURMAL ;
 Секачев+N+Prop:Секачев Deriv-RUS-V_SURMAL ;
 Секачкин+N+Prop:Секачкин Deriv-RUS-IN_SURMAL ;
 Секерин+N+Prop:Секерин Deriv-RUS-IN_SURMAL ;
@@ -46931,6 +46945,7 @@ LEXICON urj-Cyrl-ProperNouns
 Сургунькин+N+Prop:Сургунькин Deriv-RUS-IN_SURMAL ;
 Сургутский+N+Prop:Сургутск Deriv-RUS-KIJ_SURMAL ;
 Сургутсков+N+Prop:Сургутсков Deriv-RUS-V_SURMAL ;
+Сургучёв+N+Prop:Сургучёв Deriv-RUS-V_SURMAL ;
 Сурдейкин+N+Prop:Сурдейкин Deriv-RUS-IN_SURMAL ;
 Сурдин+N+Prop:Сурдин Deriv-RUS-IN_SURMAL ;
 Сурдяйкин+N+Prop:Сурдяйкин Deriv-RUS-IN_SURMAL ;
@@ -48078,6 +48093,7 @@ LEXICON urj-Cyrl-ProperNouns
 Тидке+N+Prop:Тидке CYRL-VOW_SUR ;
 Тизенгаузен+N+Prop:Тизенгаузен CYRL-CONS_SUR ;
 Тийду+N+Prop:Тийду CYRL-VOW_SUR ;
+Тикакеев+N+Prop:Тикакеев Deriv-RUS-V_SURMAL ;
 Тикант+N+Prop:Тикант CYRL-T_SUR ;
 Тикаси+N+Prop:Тикаси CYRL-VOW_SUR ;
 Тикилев+N+Prop:Тикилев Deriv-RUS-V_SURMAL ;
@@ -49419,6 +49435,7 @@ LEXICON urj-Cyrl-ProperNouns
 Тыркин+N+Prop:Тыркин Deriv-RUS-IN_SURMAL ;
 Тырков+N+Prop:Тырков Deriv-RUS-V_SURMAL ;
 Тырлов+N+Prop:Тырлов Deriv-RUS-V_SURMAL ;
+Тырманов+N+Prop:Тырманов Deriv-RUS-V_SURMAL ;
 Тырон+N+Prop:Тырон CYRL-CONS_SUR ;
 Тыронов+N+Prop:Тыронов Deriv-RUS-V_SURMAL ;
 Тыртов+N+Prop:Тыртов Deriv-RUS-V_SURMAL ;
@@ -50106,6 +50123,7 @@ LEXICON urj-Cyrl-ProperNouns
 Устинов+N+Prop:Устинов Deriv-RUS-V_SURMAL ;
 Устиновых+N+Prop:Устиновых CYRL-CONS_SUR ;
 Устич+N+Prop:Устич CYRL-SIBILANT_SUR ;
+Устькуломов+N+Prop:Устькуломов Deriv-RUS-V_SURMAL ;
 Устьцелемов+N+Prop:Устьцелемов Deriv-RUS-V_SURMAL ;
 Устьцилемов+N+Prop:Устьцилемов Deriv-RUS-V_SURMAL ;
 Устьянец+N+Prop:Устьянец CYRL-SIBILANT_SUR ;
@@ -53132,6 +53150,7 @@ LEXICON urj-Cyrl-ProperNouns
 Чаусский+N+Prop:Чаусск Deriv-RUS-KIJ_SURMAL ;
 Чаффи+N+Prop:Чаффи CYRL-VOW_SUR ;
 Чахеев+N+Prop:Чахеев Deriv-RUS-V_SURMAL ;
+Чахиров+N+Prop:Чахиров Deriv-RUS-V_SURMAL ;
 Чахлов+N+Prop:Чахлов Deriv-RUS-V_SURMAL ;
 Чахов+N+Prop:Чахов Deriv-RUS-V_SURMAL ;
 Чахоткин+N+Prop:Чахоткин Deriv-RUS-IN_SURMAL ;
@@ -53748,6 +53767,7 @@ LEXICON urj-Cyrl-ProperNouns
 Чиботар+N+Prop:Чиботар CYRL-CONS_SUR ;
 Чиботару+N+Prop:Чиботару CYRL-VOW_SUR ;
 Чибрин+N+Prop:Чибрин Deriv-RUS-IN_SURMAL ;
+Чибуков+N+Prop:Чибуков Deriv-RUS-V_SURMAL ;
 Чибцов+N+Prop:Чибцов Deriv-RUS-V_SURMAL ;
 Чибышев+N+Prop:Чибышев Deriv-RUS-V_SURMAL ;
 Чивалдов+N+Prop:Чивалдов Deriv-RUS-V_SURMAL ;
@@ -54317,6 +54337,7 @@ LEXICON urj-Cyrl-ProperNouns
 Шавишвили+N+Prop:Шавишвили CYRL-VOW_SUR ;
 Шавкалов+N+Prop:Шавкалов Deriv-RUS-V_SURMAL ;
 Шавкиев+N+Prop:Шавкиев Deriv-RUS-V_SURMAL ;
+Шавкин+N+Prop:Шавкин Deriv-RUS-IN_SURMAL ;
 Шавкотнин+N+Prop:Шавкотнин Deriv-RUS-IN_SURMAL ;
 Шавкунин+N+Prop:Шавкунин Deriv-RUS-IN_SURMAL ;
 Шавкунов+N+Prop:Шавкунов Deriv-RUS-V_SURMAL ;
