@@ -25,7 +25,10 @@ AC_PROG_INSTALL()
 # for checks
 AC_PATH_PROG([HFST_LEXC], [hfst-lexc], false)
 AM_CONDITIONAL([CAN_HFST_LEXC], [test x$HFST_LEXC != xfalse])
-AC_CONFIG_FILES([Makefile src/Makefile src/fst/Makefile src/fst/stems/Makefile \
+AC_CONFIG_FILES([Makefile
+                 src/Makefile
+                 src/fst/Makefile
+                 src/fst/stems/Makefile
                  $PACKAGE.pc])
 AC_OUTPUT
 
