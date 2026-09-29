@@ -1,0 +1,139 @@
+Alphabets
+
+а б ц д е ф г ч и й к л м н о п р с т у в ы з ъ э ю я щ х ж ш ь
+А Б Ц Д Е Ф Г Ч И Й К Л М Н О П Р С Т У В Ы З Ъ Э Ю Я Щ Х Ж Ш
+
+! found from data:
+ё ♂ ♀ ӱ ӧ і
+Ё
+у́ е́ о́ и́ а́ а̄
+
+a b c d e f g h i j k l m n o p q r s t u v w x y z
+A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+
+1 2 3 4 5 6 7 8 9 0
++ - / ' ’
+%  %0 %# %:
+
++N +Prop +Sg +Nom
+
+LEXICON Root
+
+0   urj-Cyrl-ProperNouns ;  !!= @CODE@ needs to be used
+
+
+LEXICON Deriv-RUS-AN_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON Deriv-RUS-IJ_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON Deriv-RUS-IN_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON Deriv-RUS-KIJ_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON Deriv-RUS-OJ_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON Deriv-RUS-V_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON Deriv-RUS-YJ_SURMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-A_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-K_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-L_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-T_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-CONS_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-VOW_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON CYRL-SIBILANT_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP-PATR-MAL_END-IN-CH/DZ  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KAL_FEM  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KAL_MAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KAL_PLC  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KAL_SUR  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KUDO  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KUDO_FEM  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KUDO_MAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KUDO_PATRFEM  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KUDO_PLC  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_KUDO_SURFEM  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_LAK_MAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_OSH  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_OSH_FEM  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_OSH_MAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_OSH_PATRMAL  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PROP_OSH_PLC  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PropNameMaleDer-I-YEvich  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PropNameMaleDer-IJ-I0Evich  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PropNameMaleDer-IJ-Y0Evich  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PropNameMaleDer-J-0Evich  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PropNameMaleDer-Ovich  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+LEXICON PropNameMaleDer-Y-0Evich  !!= @CODE@ needs to be defined
++Sg+Nom:0   #   ;
+
+
